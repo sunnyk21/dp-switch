@@ -1,3 +1,4 @@
+#!bin/bash
 
 # script to switch between X11 and Wayland display server
 
